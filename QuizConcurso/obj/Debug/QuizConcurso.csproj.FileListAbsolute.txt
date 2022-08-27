@@ -1,0 +1,11 @@
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\bin\Debug\QuizConcurso.exe.config
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\bin\Debug\QuizConcurso.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\bin\Debug\QuizConcurso.pdb
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.csproj.AssemblyReference.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.csproj.SuggestedBindingRedirects.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.Form1.resources
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.Properties.Resources.resources
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.csproj.GenerateResource.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.csproj.CoreCompileInputs.cache
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.exe
+C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.pdb
