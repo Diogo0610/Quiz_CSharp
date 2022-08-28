@@ -9,3 +9,19 @@ C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Se
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.csproj.CoreCompileInputs.cache
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.exe
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\QuizConcurso\obj\Debug\QuizConcurso.pdb
+C:\Projetos\Quiz Concurso\QuizConcurso\bin\Debug\QuizConcurso.exe.config
+C:\Projetos\Quiz Concurso\QuizConcurso\bin\Debug\QuizConcurso.exe.manifest
+C:\Projetos\Quiz Concurso\QuizConcurso\bin\Debug\QuizConcurso.application
+C:\Projetos\Quiz Concurso\QuizConcurso\bin\Debug\QuizConcurso.exe
+C:\Projetos\Quiz Concurso\QuizConcurso\bin\Debug\QuizConcurso.pdb
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.csproj.AssemblyReference.cache
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.Form1.resources
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.Properties.Resources.resources
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.csproj.GenerateResource.cache
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.csproj.CoreCompileInputs.cache
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.exe.manifest
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.application
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.exe
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.pdb
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.FormSistemas.resources
