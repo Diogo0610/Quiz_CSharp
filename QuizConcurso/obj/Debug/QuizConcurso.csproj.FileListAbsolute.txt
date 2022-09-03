@@ -25,3 +25,4 @@ C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.application
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.exe
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.pdb
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.FormSistemas.resources
+C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.FormSuporte.resources
