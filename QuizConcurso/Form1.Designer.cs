@@ -39,7 +39,7 @@
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.label1.Location = new System.Drawing.Point(329, 111);
+            this.label1.Location = new System.Drawing.Point(458, 111);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(522, 32);
             this.label1.TabIndex = 0;
@@ -50,7 +50,7 @@
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(131)))), ((int)(((byte)(138)))), ((int)(((byte)(154)))));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button1.Location = new System.Drawing.Point(214, 377);
+            this.button1.Location = new System.Drawing.Point(214, 373);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(268, 63);
             this.button1.TabIndex = 1;
@@ -63,7 +63,7 @@
             this.button2.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(131)))), ((int)(((byte)(138)))), ((int)(((byte)(154)))));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button2.Location = new System.Drawing.Point(525, 377);
+            this.button2.Location = new System.Drawing.Point(784, 373);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(268, 63);
             this.button2.TabIndex = 2;
@@ -75,7 +75,7 @@
             // 
             this.SistemasLbl.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.SistemasLbl.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.SistemasLbl.Location = new System.Drawing.Point(281, 443);
+            this.SistemasLbl.Location = new System.Drawing.Point(238, 450);
             this.SistemasLbl.Name = "SistemasLbl";
             this.SistemasLbl.Size = new System.Drawing.Size(201, 32);
             this.SistemasLbl.TabIndex = 3;
@@ -85,7 +85,7 @@
             // 
             this.SuporteLbl.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.SuporteLbl.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.SuporteLbl.Location = new System.Drawing.Point(599, 443);
+            this.SuporteLbl.Location = new System.Drawing.Point(822, 450);
             this.SuporteLbl.Name = "SuporteLbl";
             this.SuporteLbl.Size = new System.Drawing.Size(194, 32);
             this.SuporteLbl.TabIndex = 4;
@@ -97,7 +97,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(44)))), ((int)(((byte)(51)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1002, 664);
+            this.ClientSize = new System.Drawing.Size(1261, 657);
             this.Controls.Add(this.SuporteLbl);
             this.Controls.Add(this.SistemasLbl);
             this.Controls.Add(this.button2);
