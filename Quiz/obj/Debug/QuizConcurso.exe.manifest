@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuizConcurso.exe" size="62944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuizConcurso.exe" size="66016">
       <assemblyIdentity name="QuizConcurso" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dzclEE3aBbbgf3XldJ7xM5qSNri+iIS2dOrWFdTV2tw=</dsig:DigestValue>
+        <dsig:DigestValue>YvW6BrqIVe2v2toYSmRzguTytt6AtZV08pdwCuOPDrg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

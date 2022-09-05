@@ -26,3 +26,20 @@ C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.exe
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.pdb
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.FormSistemas.resources
 C:\Projetos\Quiz Concurso\QuizConcurso\obj\Debug\QuizConcurso.FormSuporte.resources
+C:\Projetos\Quiz\Quiz\bin\Debug\QuizConcurso.exe.config
+C:\Projetos\Quiz\Quiz\bin\Debug\QuizConcurso.exe.manifest
+C:\Projetos\Quiz\Quiz\bin\Debug\QuizConcurso.application
+C:\Projetos\Quiz\Quiz\bin\Debug\QuizConcurso.exe
+C:\Projetos\Quiz\Quiz\bin\Debug\QuizConcurso.pdb
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.csproj.AssemblyReference.cache
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.Form1.resources
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.FormSuporte.resources
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.FormSistemas.resources
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.Properties.Resources.resources
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.csproj.GenerateResource.cache
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.csproj.CoreCompileInputs.cache
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.exe.manifest
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.application
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.exe
+C:\Projetos\Quiz\Quiz\obj\Debug\QuizConcurso.pdb
