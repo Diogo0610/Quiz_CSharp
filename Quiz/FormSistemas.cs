@@ -315,5 +315,10 @@ namespace QuizConcurso
                     break;
             }
         }
+
+        private void lblQuestion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

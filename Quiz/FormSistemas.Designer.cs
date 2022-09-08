@@ -45,6 +45,7 @@
             this.lblQuestion.Size = new System.Drawing.Size(1288, 372);
             this.lblQuestion.TabIndex = 0;
             this.lblQuestion.Text = "Question";
+            this.lblQuestion.Click += new System.EventHandler(this.lblQuestion_Click);
             // 
             // button1
             // 

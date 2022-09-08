@@ -13,6 +13,8 @@ namespace QuizConcurso
 {
     public partial class Form1 : Form
     {
+        int question;
+
         public Form1()
         {
             InitializeComponent();
@@ -35,6 +37,11 @@ namespace QuizConcurso
             FormSuporte formSuporte = new FormSuporte();
             formSuporte.ShowDialog();
             SuporteLbl.Text = $"Acertos: {formSuporte.AnswersCorrects}/20";
+        }
+
+        private void NextCheckAnswer(object sender, EventArgs e)
+        {
+
         }
     }
 }
